@@ -1,0 +1,3 @@
+[submodule "FerrOS"]
+	path = FerrOS
+	url = https://github.com/Sup3Legacy/FerrOS
