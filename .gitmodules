@@ -16,6 +16,3 @@
 [submodule "bootloader"]
 	path = bootloader
 	url = https://github.com/samsa1/bootloader
-[submodule "FerrOS-project"]
-	path = FerrOS-project
-	url = https://github.com/Sup3Legacy/FerrOS-project
