@@ -1,3 +1,18 @@
 [submodule "FerrOS"]
 	path = FerrOS
 	url = https://github.com/Sup3Legacy/FerrOS
+[submodule "FerrOS-user"]
+	path = FerrOS-user
+	url = https://github.com/Sup3Legacy/FerrOS-user
+[submodule "FerrOS-librust"]
+	path = FerrOS-librust
+	url = https://github.com/Sup3Legacy/FerrOS-librust
+[submodule "Samenhir"]
+	path = Samenhir
+	url = https://github.com/samsa1/Samenhir
+[submodule "Ferrolex"]
+	path = Ferrolex
+	url = https://github.com/samsa1/Ferrolex
+[submodule "bootloader"]
+	path = bootloader
+	url = https://github.com/samsa1/bootloader
