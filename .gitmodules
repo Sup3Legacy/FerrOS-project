@@ -1,3 +1,7 @@
 [submodule "FerrOS"]
 	path = FerrOS
 	url = https://github.com/Sup3Legacy/FerrOS
+
+[submodule "Myself"]
+	path = MySelf
+	url = https://github.com/Sup3Legacy/FerrOS-project
