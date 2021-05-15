@@ -5,3 +5,5 @@ all:
 clean:
 	./clean_script.sh
 
+update:
+	git submodule update --recursive --remote
