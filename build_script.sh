@@ -20,5 +20,5 @@ mv target/x86_64-ferros/release/echo ../../FerrOS/filesystem/bin/
 
 cd ../../FerrOS
 ./disk/createDisk.py
-cargo run --release
+cargo build --release
 cd ..
