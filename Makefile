@@ -1,4 +1,4 @@
-all: setup kernel
+all: kernel
 
 setup:
 	rustup override set nightly-2021-05-11
