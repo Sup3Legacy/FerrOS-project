@@ -29,7 +29,7 @@ This means every program running in user mode.
 
 * haskell-music
 
-TODO !
+Play and generate music for FerrOS.
 
 * Samenhir
 
