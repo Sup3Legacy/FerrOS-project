@@ -9,11 +9,13 @@ cd ../FerrOS-user
 
 build () {
     cd ../$1
+    cargo update
     cargo build --release
     cp target/x86_64-ferros/release/$1 ../../FerrOS/filesystem/$2
 }
 
 cd launcher
+cargo update
 cargo build --release
 mv target/x86_64-ferros/release/launcher ../../FerrOS/src/user_program/
 
@@ -30,6 +32,6 @@ build snake games
 build top bin
 
 cd ../../FerrOS
-./disk/createDisk.py
+python3 ./disk/createDisk.py
 cargo build --release
 cd ..

@@ -5,7 +5,7 @@ cd FerrOS
 cargo clean
 rm -f src/user_program/launcher
 cd filesystem
-rm -f ferr_shell clock bin/* games/* test_io issou
+rm -f ferr_shell clock bin/* games/* test_io issou disk/disk2.img
 cd ../../FerrOS-user
 
 rm -f ferr_shell/compute/lexer.rs ferr_shell/compute/parser.rs
