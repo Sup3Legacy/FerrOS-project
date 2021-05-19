@@ -16,3 +16,6 @@
 [submodule "bootloader"]
 	path = bootloader
 	url = https://github.com/samsa1/bootloader
+[submodule "haskell-music"]
+	path = haskell-music
+	url = https://github.com/gabriel-doriath-dohler/haskell-music
