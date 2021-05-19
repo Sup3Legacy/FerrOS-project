@@ -2,6 +2,9 @@
 
 (Report at: `FerrOS/docs/report`)
 
+## Installation
+See `FerrOS/README.md`
+
 ## Dependencies
 - `OCaml`
 - `Rustup`
