@@ -5,10 +5,8 @@ cd FerrOS
 cargo clean
 rm -f src/user_program/launcher
 cd filesystem
-rm -f ferr_shell clock bin/echo
-cd ../..
-
-cd FerrOS-user
+rm -f ferr_shell clock bin/* games/* test_io issou
+cd ../../FerrOS-user
 
 for script_name in *;
 do
@@ -18,3 +16,11 @@ do
         cd ..
     fi
 done;
+
+cd ../Samenhir
+make cleanall
+
+cd ../Ferrolex
+make cleanall
+
+cd ..
