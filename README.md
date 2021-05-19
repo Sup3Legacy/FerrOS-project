@@ -6,6 +6,8 @@
 - `OCaml`
 - `Rustup`
 - `ghc`
+- `qemu`
+- `cargo`
 - `python3`
 - `ffmpeg`
 
