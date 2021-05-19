@@ -2,6 +2,8 @@
 
 (Report at: `FerrOS/docs/report`)
 
+To build and see the documentation of a particular component, navigate to the root of that component and execute `cargo doc --document-private-items --open`
+
 ## Submodules
 
 * bootloader
