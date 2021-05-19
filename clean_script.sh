@@ -8,6 +8,7 @@ cd filesystem
 rm -f ferr_shell clock bin/* games/* test_io issou
 cd ../../FerrOS-user
 
+rm -f ferr_shell/compute/lexer.rs ferr_shell/compute/parser.rs
 for script_name in *;
 do
     if [ -d $script_name ]; then 
