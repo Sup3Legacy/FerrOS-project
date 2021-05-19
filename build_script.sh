@@ -30,6 +30,7 @@ build hexdump bin
 build neofetch bin
 build snake games
 build top bin
+build music bin
 
 cd ../../FerrOS
 python3 ./disk/createDisk.py
