@@ -2,6 +2,13 @@
 
 (Report at: `FerrOS/docs/report`)
 
+## Dependencies
+- `OCaml`
+- `Rustup`
+- `ghc`
+- `python3`
+- `ffmpeg`
+
 ## Documentation
 
 To build and see the documentation of a particular component, navigate to the root of that component and execute `cargo doc --document-private-items --open`
