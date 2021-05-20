@@ -1,6 +1,6 @@
 # FerrOS-project
 
-(Report at: `FerrOS/docs/report`)
+(Report at: `FerrOS/docs/report`, the symlink `report` will lead you to it from a cloned version of the repo)
 
 ## Installation
 See `FerrOS/README.md`
