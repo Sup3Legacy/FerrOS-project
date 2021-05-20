@@ -3,7 +3,8 @@
 (Report at: `FerrOS/docs/report`, the symlink `report` will lead you to it from a cloned version of the repo)
 
 ## Installation
-See `FerrOS/README.md`
+
+Once you installed `rustup` and `cargo` you can try `make setup` to get the good parameters Or see `FerrOS/README.md` for the commands to run.
 
 ## Dependencies
 - `OCaml`
