@@ -24,20 +24,20 @@ To build and see the documentation of a particular component, navigate to the ro
 
 A forked version the bootloader by https://github.com/rust-osdev/bootloader
 
-We modified it to include our splash screen inside it (in real mode)
+We modified it to include our splash screen (in real mode)
 
 * Ferrolex
 
-A homebrew version of ocamllex (ocaml lexer generator).
+A homebrew version of `ocamllex` (Ocaml lexer generator).
 It is used to generate the lexer used by the shell.
 
 * FerrOS
 
-Source code of the OS itselfs
+Source code of the OS itself.
 
 * FerrOS-librust
 
-Standart rust library for our scripts, used by user programs (see `Cargo.toml` files)
+Standard Rust library for our scripts, used by user programs (see `Cargo.toml` files)
 
 * FerrOS-user
 
@@ -50,5 +50,5 @@ Play and generate music for FerrOS.
 
 * Samenhir
 
-A homebrew version of menhir (ocaml parser generator).
+A homebrew version of `menhir` (Ocaml parser generator).
 It is used to generate the parser used by the shell.
